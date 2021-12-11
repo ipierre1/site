@@ -1,0 +1,22 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.32edc313.js",
+        "/build/510.5ffb7897.js",
+        "/build/958.da383afb.js",
+        "/build/app.1b24fab1.js"
+      ],
+      "css": [
+        "/build/app.dd04ce04.css"
+      ]
+    },
+    "swiper": {
+      "js": [
+        "/build/runtime.32edc313.js",
+        "/build/510.5ffb7897.js",
+        "/build/swiper.dcb32396.js"
+      ]
+    }
+  }
+}
